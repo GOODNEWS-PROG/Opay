@@ -338,7 +338,7 @@ left: 5em;
 
 .footer{
   height: 10em;
-  width: 100%;
+  width: 89%;
   background-color: #1DC99B;
   margin-top: -1.6em;
   display: flex;
@@ -356,6 +356,7 @@ left: 5em;
 
 .footer1{
   display: flex;
+  width: 101%;
 justify-content: space-around;
 align-items: center;
 /* margin-top: 1em; */
